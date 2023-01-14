@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "hardcore_grazier:syringe"
+  },
+  "pattern": [
+    " g",
+    "# "
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "hardcore_grazier:incubator"
+  },
+  "pattern": [
+    "iii",
+    "isi",
+    "iii"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "i": {
+      "item": "minecraft:gold_ingot"
+    },
+    "s": {
+      "item": "hardcore_grazier:syringe"
+    }
+  }
+}

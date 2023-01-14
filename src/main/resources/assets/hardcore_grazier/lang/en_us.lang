@@ -1,0 +1,18 @@
+itemGroup.hardcore_grazier.main=Hardcore Grazier
+
+item.hardcore_grazier.syringe.name=Syringe
+item.hardcore_grazier.syringe.tooltip=Click to horse to get blood
+
+item.hardcore_grazier.syringe_blood.name=Syringe with blood
+item.hardcore_grazier.syringe_blood.tooltip=Information need analyze
+
+item.hardcore_grazier.decoded_dna.name=Decoded DNA
+item.hardcore_grazier.decoded_dna.tooltip=Press Shift for more info
+
+tile.hardcore_grazier.analyzer.name=Analyzer
+container.hardcore_grazier.analyzer=Analyzer
+
+tile.hardcore_grazier.incubator.name=Incubator
+container.hardcore_grazier.incubator=Incubator
+
+tile.hardcore_grazier.egg.name=Egg

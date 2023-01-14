@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "hardcore_grazier:analyzer"
+  },
+  "pattern": [
+    "iii",
+    "isi",
+    "iii"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "hardcore_grazier:syringe"
+    }
+  }
+}

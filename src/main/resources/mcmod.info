@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "hardcore_grazier",
+    "name": "Hardcore Grazier",
+    "description": "Description",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://dumk.in/",
+    "updateJSON": "",
+    "authorList": [
+      "Dumkin"
+    ],
+    "credits": "I'd like to thank my mother and father."
+  }
+]
